@@ -22,7 +22,7 @@ The goal is to develop a machine learning model that can accurately predict the 
 # Installion
 ## 1.Clone the repository:
 
-➜ git clone https://github.com/yourusername/house-price-prediction.git
+➜ git clone https://github.com/cellikkemre/House_Price_Prediction.git
 
 ## 2.Install the required dependencies:
 ➜ pip install -r requirements.txt
