@@ -24,7 +24,9 @@ The goal is to develop a machine learning model that can accurately predict the 
 # How to Run
 The main model used in this project is LightGBM, a gradient boosting framework that uses tree-based learning algorithms. The model is optimized using GridSearchCV to find the best combination of hyperparameters. After training the model with optimized parameters, the house prices in the test set are predicted and saved for submission.
 .Install the required dependencies:
+
 ➜ pip install -r requirements.txt
+
 To run the main script:
 
 ➜ python src/main.py
